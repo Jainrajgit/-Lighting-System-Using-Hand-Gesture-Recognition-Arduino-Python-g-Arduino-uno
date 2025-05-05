@@ -97,3 +97,13 @@ Voice + gesture hybrid control
 
 Energy monitoring system integration
 
+
+## Project Requirements
+
+![image](https://github.com/user-attachments/assets/410ad69d-302e-4c34-acdc-071b6b1bda8b)
+
+
+
+
+
+
